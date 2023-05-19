@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.navbar-default {
+    background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+header {
+    padding: 150px 0 30px 0;
+    background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: transparent;
+}
+
+#course {
+    padding: 80px 0;
+}
+
+footer {
+    padding: 20px 0;
+}
